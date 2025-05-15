@@ -1,4 +1,4 @@
-# works Website
+# Works Website
 
 A responsive website showcasing coworking spaces for booking office space, meeting rooms, and dedicated desks. This website features a clean, modern design with a mobile-first approach, offering flexible layouts for various screen sizes.
 
@@ -16,17 +16,3 @@ A responsive website showcasing coworking spaces for booking office space, meeti
 - **JavaScript**: Used for the mobile menu toggle and dynamically setting the current year in the footer.
 - **Font Awesome**: For social media icons.
 - **Google Fonts**: Roboto font for text styling.
-
-## Installation
-
-To get started with this project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/cospaces.git
-    ```
-2. Navigate into the project directory:
-    ```bash
-    cd cospaces
-    ```
-3. Open the `index.html` file in your preferred browser to see the website in action.
