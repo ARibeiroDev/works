@@ -30,6 +30,3 @@ To get started with this project locally, follow these steps:
     cd cospaces
     ```
 3. Open the `index.html` file in your preferred browser to see the website in action.
-
-## File Structure
-
